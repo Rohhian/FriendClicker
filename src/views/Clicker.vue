@@ -16,7 +16,7 @@
     <br>
     <br><br>
     <div id="maxfriends">{{ maxNumOfFriends }}<br>max Friends you ever had
-    </div> 
+    </div>
   </div>
 </template>
 
